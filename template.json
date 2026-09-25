@@ -1,0 +1,8 @@
+{
+  "meta": {"version": 1},
+  "loan": {"lender": "", "interestType": "Floating", "projectCost": 0, "sanctioned": 0, "disbursed": 0, "outstanding": 0, "rate": 0, "tenureYears": 15, "repaymentStart": "", "extraMonthly": 0, "notes": ""},
+  "contractor": [], "indirectExpenses": [], "disbursements": [], "prepayments": [],
+  "budget": [], "indirectBudget": [], "funding": [], "processing": {"stage": ""},
+  "emergency": {"monthlyEssentials": 0, "targetMonths": 0, "currentFund": 0},
+  "family": [], "insurance": [], "actions": [], "strategy": {}
+}
